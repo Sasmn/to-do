@@ -8,3 +8,5 @@ A simple to-do page, made using webpack, js and css.
 * Mark projects as completad.
 * Mark the todos priority, and display only the selected.
 * Add a date to to-dos, and display only those, that fit into the selected timeframe.
+
+## site: https://sasmn.github.io/to-do/
